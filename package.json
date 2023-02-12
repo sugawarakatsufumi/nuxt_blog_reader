@@ -1,0 +1,17 @@
+{
+  "name": "blog-reader",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.12.1",
+    "bootstrap": "^4.5.0",
+    "bootstrap-vue": "^2.15.0",
+    "nuxt": "^2.16.0"
+  }
+}
